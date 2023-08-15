@@ -67,15 +67,13 @@ for i, prompt in enumerate(prompts):
 
         content = response.choices[0].message['content']
 
-        # Split the text into lines
+      
         lines = content.split("\n")
-         # Create an empty dictionary to store the extracted data
         data = {}
-        # Iterate through the lines and extract score data
         for line in lines:
             if ":" in line:
                 parts = line.split(":")
-                if len(parts) == 3:  # To handle lines with multiple colons
+                if len(parts) == 3:  #to handle lines with multiple colons
                     score_text = parts[1].strip()
                     score_value_str = parts[2].strip()
                     try:
@@ -86,28 +84,21 @@ for i, prompt in enumerate(prompts):
                         data[score_text] = 'Invalid'
                         break
                     
-
-        # Create a dictionary to store data for this iteration
         row_data = {
         "Index": str(i),
         "Text": text,
         "Response": content,
-        **data  # Use the predefined score_dictionary
+        **data  
     }
-        # Append the data to the output_data list
+
         output_data.append(row_data)        
 
-# Create a DataFrame from the extracted data
 df = pd.DataFrame(output_data)
 
 #print(df)
 
-# Define the CSV file name
 csv_file_name = 'output_data.csv'
-
-# Write the DataFrame to a CSV file
 df.to_csv(csv_file_name, index=False, encoding='utf-8')
-
 print(f"Data saved to {csv_file_name}")
 
 
