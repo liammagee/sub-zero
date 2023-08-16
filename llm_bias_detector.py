@@ -1,10 +1,12 @@
 from dotenv import load_dotenv
 import openai
+import replicate
 from transformers import AutoTokenizer
 import pandas as pd
 import csv
 import re
 
+RUNNING_GPT4 = False
 
 load_dotenv()
 
@@ -20,7 +22,7 @@ tokenizer = AutoTokenizer.from_pretrained('gpt2')
 openai.api_key = os.environ.get("OPENAI_API_KEY")
 
 
-prompt_sys = 'You are a qualitative researcher working in digital media studies. Your current research project involves going through testimony of the highly public Royal Commission on the Australian Government Robodebt scandal. Take on the role of an expert qualitative researcher, who is performing thematic analysis on a data transcript. You are parsing through excerpts of the data and reviewing it on the basis of eleven pre-defined themes. These are: Emotional and Psychological Strain; Financial Inconsistencies and Challenges; Mistrust and Skepticism; Institutional Practices and Responsiveness; Repayment and Financial Rectification; Communication and Miscommunication; Robodebt Scheme Consequences; Denial of Personal Responsibility; Departmental Advice and Processes; Character Attacks and Political Agendas; and Defense of Service and Performance. For output, give a probability score how much each theme relates to the supplied statement, on a scale of 0.0 to 100.0. Be really precise.'
+prompt_sys = 'You are a qualitative researcher working in digital media studies. Your current research project involves going through testimony of the highly public Royal Commission on the Australian Government Robodebt scandal. Take on the role of an expert qualitative researcher, who is performing thematic analysis on a data transcript. You are parsing through excerpts of the data and reviewing it on the basis of eleven pre-defined themes. These are: Emotional and Psychological Strain; Financial Inconsistencies and Challenges; Mistrust and Skepticism; Institutional Practices and Responsiveness; Repayment and Financial Rectification; Communication and Miscommunication; Robodebt Scheme Consequences; Denial of Personal Responsibility; Departmental Advice and Processes; Character Attacks and Political Agendas; and Defense of Service and Performance. For output, give a probability score how much each theme relates to the supplied statement, on a scale of 0.0 to 100.0. Just give the scores, no preamble or other text.'
 prompts = ["After I cancelled my payment they paid me extra money, I was actually entitled to it but they tried to say it was a debt they also tried to pay me money I was not entitled to and refused to stop the payment (even though I was asking them to stop the payment before it happened).",
    "Centrelink contacted me in 2018 claiming I owed $1950 due to misreporting my income while on Newstart during the 2014/15 financial year. I disputed the debt but lost so had to repay the full amount. Centrelink has sent me a letter today stating that: “We are refunding money to people who made repayments to eligible income compliance debts. Our records indicate that you previously had debt/s raised using averaging of ATO information. We no longer do this and will refund the repayments you made to your nominated bank account.” Hell yes!\"",
    "Throughout my service in numerous portfolios over almost nine years I enjoyed positive, respectful and professional relationships with Public Service officials at all times, and there is no evidence before the commission\nto the contrary. While acknowledging the regrettable—again, the regrettable—unintended consequences and\nimpacts of the scheme on individuals and families, I do however completely reject each of the adverse findings\nagainst me in the commission's report as unfounded and wrong.\n\"",
@@ -39,54 +41,67 @@ prompts = ["After I cancelled my payment they paid me extra money, I was actuall
    "I am still shocked by the response of the previous government, and I still cannot understand why they pushed forward over a number of years in this process. Despite any advice about how bad the Centrelink retrieval of debt process was, they still refused to act, and they should hang their heads in shame about it.",
    "In 2021, I spoke in this place about how my electorate of Macarthur had lost people to suicide because of the stress that robodebt had placed upon them. I saw it firsthand. People in my electorate felt and lived firsthand how the former coalition government and those senior public servants who backed in this terrible scheme did not care for them, their families or their attempts to deal with such a pathetic witch-hunt, known as robodebt."
  ]
+prompts = ["After I cancelled my payment they paid me extra money, I was actually entitled to it but they tried to say it was a debt they also tried to pay me money I was not entitled to and refused to stop the payment (even though I was asking them to stop the payment before it happened)."
+ ]
 output_data = []
 for i, prompt in enumerate(prompts):
-    messages = []
-    text = prompt #save text for csv file
-    messages.append({"role": "system", "content": prompt_sys})
-    prompt = "Score the following statement for each of the six themes. Remember to be really precise!\n\n" + prompt
-    messages.append({"role": "user", "content": prompt})
-    response = openai.ChatCompletion.create(
-       model='gpt-4',
-       messages=messages,
-       max_tokens=2000,
-      temperature=0.1,
-    ) 
+    content = ''
+    prompt = "Score the following statement for each of the eleven themes. Remember to be really precise!\n\n" + prompt
 
-   
-    if response != 0:
-        #print(response.choices[0].message)
-        #print(str(i))
-        #print(prompt)
-        #print(response.choices[0].message['content'])
 
-        content = response.choices[0].message['content']
+    if RUNNING_GPT4:
 
-      
-        lines = content.split("\n")
-        data = {}
-        for line in lines:
-            if ":" in line:
-                parts = line.split(":")
-                if len(parts) == 3:  #to handle lines with multiple colons
-                    score_text = parts[1].strip()
-                    score_value_str = parts[2].strip()
-                    try:
-                        score_value = float(score_value_str) #validation on float score
-                        data[score_text] = score_value
-                    except ValueError:
-                        print(f"Invalid score value: {score_value_str}")
-                        data[score_text] = 'Invalid'
-                        break
-                    
-        row_data = {
+        # OpenAI
+        messages = []
+        messages.append({"role": "system", "content": prompt_sys})
+        messages.append({"role": "user", "content": prompt})
+        response = openai.ChatCompletion.create(
+        model='gpt-4',
+        messages=messages,
+        max_tokens=2000,
+        temperature=0.1,
+        ) 
+        if response != 0:
+            content = response.choices[0].message['content']
+    else:
+        # Llama2
+        output = replicate.run(
+                    "replicate/llama-2-70b-chat:2c1608e18606fad2812020dc541930f2d0495ce32eee50074220b87300bc16e1",
+                    input={
+                        "prompt": prompt,
+                        "system_prompt": prompt_sys
+                        }
+                )
+        content = ''.join(output)
+        print(str(i))
+        print(prompt)
+        print(content)
+    
+    lines = content.split("\n")
+    data = {}
+    for line in lines:
+        print(line)
+        if ":" in line:
+            parts = line.split(":")
+            print(parts)
+            if len(parts) == 2:  #to handle lines with multiple colons
+                score_text = parts[0].strip()
+                score_value_str = parts[1].strip()
+                try:
+                    score_value = float(score_value_str) #validation on float score
+                    data[score_text] = score_value
+                except ValueError:
+                    print(f"Invalid score value: {score_value_str}")
+                    data[score_text] = 'Invalid'
+                    break
+    row_data = {
         "Index": str(i),
-        "Text": text,
+        "Text": content,
         "Response": content,
         **data  
     }
 
-        output_data.append(row_data)        
+    output_data.append(row_data)        
 
 df = pd.DataFrame(output_data)
 
