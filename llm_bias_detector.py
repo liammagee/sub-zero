@@ -1,5 +1,6 @@
 from dotenv import load_dotenv
 import openai
+from litellm import completion
 import replicate
 from transformers import AutoTokenizer
 import pandas as pd
@@ -53,7 +54,7 @@ for i, prompt in enumerate(prompts):
         messages = []
         messages.append({"role": "system", "content": prompt_sys})
         messages.append({"role": "user", "content": prompt})
-        response = openai.ChatCompletion.create(
+        response = completion(
         model='gpt-4',
         messages=messages,
         max_tokens=2000,
@@ -63,14 +64,13 @@ for i, prompt in enumerate(prompts):
             content = response.choices[0].message['content']
     else:
         # Llama2
-        output = replicate.run(
-                    "replicate/llama-2-70b-chat:2c1608e18606fad2812020dc541930f2d0495ce32eee50074220b87300bc16e1",
-                    input={
-                        "prompt": prompt,
-                        "system_prompt": prompt_sys
-                        }
-                )
-        content = ''.join(output)
+        response = completion(
+        model='replicate/llama-2-70b-chat:2c1608e18606fad2812020dc541930f2d0495ce32eee50074220b87300bc16e1',
+        messages=messages,
+        )
+        if response != 0:
+            content = response.choices[0].message['content']
+
         print(str(i))
         print(prompt)
         print(content)
