@@ -41,6 +41,11 @@ prompts = ["After I cancelled my payment they paid me extra money, I was actuall
    "I am still shocked by the response of the previous government, and I still cannot understand why they pushed forward over a number of years in this process. Despite any advice about how bad the Centrelink retrieval of debt process was, they still refused to act, and they should hang their heads in shame about it.",
    "In 2021, I spoke in this place about how my electorate of Macarthur had lost people to suicide because of the stress that robodebt had placed upon them. I saw it firsthand. People in my electorate felt and lived firsthand how the former coalition government and those senior public servants who backed in this terrible scheme did not care for them, their families or their attempts to deal with such a pathetic witch-hunt, known as robodebt."
  ]
+prompts = [
+    "In 2021, I spoke in this place about how my electorate of Macarthur had lost people to suicide because of the stress that robodebt had placed upon them. I saw it firsthand. People in my electorate felt and lived firsthand how the former coalition government and those senior public servants who backed in this terrible scheme did not care for them, their families or their attempts to deal with such a pathetic witch-hunt, known as robodebt."
+ ]
+
+
 output_data = []
 for i, prompt in enumerate(prompts):
     content = ''
@@ -67,7 +72,8 @@ for i, prompt in enumerate(prompts):
                     "replicate/llama-2-70b-chat:2c1608e18606fad2812020dc541930f2d0495ce32eee50074220b87300bc16e1",
                     input={
                         "prompt": prompt,
-                        "system_prompt": prompt_sys
+                        "system_prompt": prompt_sys,
+                        # "temperature":0.1
                         }
                 )
         content = ''.join(output)
@@ -105,19 +111,6 @@ df = pd.DataFrame(output_data)
 
 #print(df)
 
-csv_file_name = 'output_data.csv'
-df.to_csv(csv_file_name, index=False, encoding='utf-8')
-print(f"Data saved to {csv_file_name}")
-
-
-
-
-
-    
-
-
-
-
-
-
-
+# csv_file_name = 'output_data.csv'
+# df.to_csv(csv_file_name, index=False, encoding='utf-8')
+# print(f"Data saved to {csv_file_name}")

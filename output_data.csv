@@ -1,4 +1,4 @@
-Index,Text,Response,Here are the probability scores for each of the eleven themes in relation to the given statement,Here are the probability scores for each theme in relation to the given statement,Here are the probability scores for each of the eleven themes based on the given statement
+Index,Text,Response,Here are the probability scores for each of the eleven themes in relation to the given statement,Here are the probability scores for each of the eleven themes based on the given statement,Here are the probability scores for each theme related to the given statement
 0," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
 1. Emotional and Psychological Strain: 85.0
@@ -24,7 +24,7 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 9. Departmental Advice and Processes: 40.0
 10. Character Attacks and Political Agendas: 10.0
 11. Defense of Service and Performance: 15.0",Invalid,,
-1," Here are the probability scores for each of the eleven themes in relation to the given statement:
+1," Here are the probability scores for each of the eleven themes based on the given statement:
 
 1. Emotional and Psychological Strain: 70.0
 2. Financial Inconsistencies and Challenges: 80.0
@@ -36,7 +36,7 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 8. Denial of Personal Responsibility: 10.0
 9. Departmental Advice and Processes: 30.0
 10. Character Attacks and Political Agendas: 5.0
-11. Defense of Service and Performance: 15.0"," Here are the probability scores for each of the eleven themes in relation to the given statement:
+11. Defense of Service and Performance: 15.0"," Here are the probability scores for each of the eleven themes based on the given statement:
 
 1. Emotional and Psychological Strain: 70.0
 2. Financial Inconsistencies and Challenges: 80.0
@@ -48,7 +48,7 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 8. Denial of Personal Responsibility: 10.0
 9. Departmental Advice and Processes: 30.0
 10. Character Attacks and Political Agendas: 5.0
-11. Defense of Service and Performance: 15.0",Invalid,,
+11. Defense of Service and Performance: 15.0",,Invalid,
 2," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
 1. Emotional and Psychological Strain: 20.0
@@ -77,29 +77,29 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 3," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
 1. Emotional and Psychological Strain: 80.0
-2. Financial Inconsistencies and Challenges: 30.0
+2. Financial Inconsistencies and Challenges: 20.0
 3. Mistrust and Skepticism: 60.0
-4. Institutional Practices and Responsiveness: 40.0
-5. Repayment and Financial Rectification: 20.0
-6. Communication and Miscommunication: 50.0
+4. Institutional Practices and Responsiveness: 70.0
+5. Repayment and Financial Rectification: 30.0
+6. Communication and Miscommunication: 40.0
 7. Robodebt Scheme Consequences: 90.0
 8. Denial of Personal Responsibility: 20.0
-9. Departmental Advice and Processes: 30.0
+9. Departmental Advice and Processes: 50.0
 10. Character Attacks and Political Agendas: 40.0
-11. Defense of Service and Performance: 70.0"," Here are the probability scores for each of the eleven themes in relation to the given statement:
+11. Defense of Service and Performance: 60.0"," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
 1. Emotional and Psychological Strain: 80.0
-2. Financial Inconsistencies and Challenges: 30.0
+2. Financial Inconsistencies and Challenges: 20.0
 3. Mistrust and Skepticism: 60.0
-4. Institutional Practices and Responsiveness: 40.0
-5. Repayment and Financial Rectification: 20.0
-6. Communication and Miscommunication: 50.0
+4. Institutional Practices and Responsiveness: 70.0
+5. Repayment and Financial Rectification: 30.0
+6. Communication and Miscommunication: 40.0
 7. Robodebt Scheme Consequences: 90.0
 8. Denial of Personal Responsibility: 20.0
-9. Departmental Advice and Processes: 30.0
+9. Departmental Advice and Processes: 50.0
 10. Character Attacks and Political Agendas: 40.0
-11. Defense of Service and Performance: 70.0",Invalid,,
-4," Here are the probability scores for each theme in relation to the given statement:
+11. Defense of Service and Performance: 60.0",Invalid,,
+4," Here are the probability scores for each theme related to the given statement:
 
 1. Emotional and Psychological Strain: 0.0
 2. Financial Inconsistencies and Challenges: 0.0
@@ -111,7 +111,7 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 8. Denial of Personal Responsibility: 80.0
 9. Departmental Advice and Processes: 10.0
 10. Character Attacks and Political Agendas: 0.0
-11. Defense of Service and Performance: 10.0"," Here are the probability scores for each theme in relation to the given statement:
+11. Defense of Service and Performance: 10.0"," Here are the probability scores for each theme related to the given statement:
 
 1. Emotional and Psychological Strain: 0.0
 2. Financial Inconsistencies and Challenges: 0.0
@@ -123,7 +123,7 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 8. Denial of Personal Responsibility: 80.0
 9. Departmental Advice and Processes: 10.0
 10. Character Attacks and Political Agendas: 0.0
-11. Defense of Service and Performance: 10.0",,Invalid,
+11. Defense of Service and Performance: 10.0",,,Invalid
 5," Here are the probability scores for each of the eleven themes based on the given statement:
 
 1. Emotional and Psychological Strain: 20.0
@@ -148,7 +148,7 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 8. Denial of Personal Responsibility: 10.0
 9. Departmental Advice and Processes: 40.0
 10. Character Attacks and Political Agendas: 20.0
-11. Defense of Service and Performance: 10.0",,,Invalid
+11. Defense of Service and Performance: 10.0",,Invalid,
 6," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
 1. Emotional and Psychological Strain: 20.0
@@ -158,9 +158,9 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 5. Repayment and Financial Rectification: 10.0
 6. Communication and Miscommunication: 35.0
 7. Robodebt Scheme Consequences: 15.0
-8. Denial of Personal Responsibility: 20.0
+8. Denial of Personal Responsibility: 45.0
 9. Departmental Advice and Processes: 20.0
-10. Character Attacks and Political Agendas: 45.0
+10. Character Attacks and Political Agendas: 50.0
 11. Defense of Service and Performance: 80.0"," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
 1. Emotional and Psychological Strain: 20.0
@@ -170,9 +170,9 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 5. Repayment and Financial Rectification: 10.0
 6. Communication and Miscommunication: 35.0
 7. Robodebt Scheme Consequences: 15.0
-8. Denial of Personal Responsibility: 20.0
+8. Denial of Personal Responsibility: 45.0
 9. Departmental Advice and Processes: 20.0
-10. Character Attacks and Political Agendas: 45.0
+10. Character Attacks and Political Agendas: 50.0
 11. Defense of Service and Performance: 80.0",Invalid,,
 7," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
@@ -186,7 +186,7 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 8. Denial of Personal Responsibility: 60.0
 9. Departmental Advice and Processes: 40.0
 10. Character Attacks and Political Agendas: 95.0
-11. Defense of Service and Performance: 75.0"," Here are the probability scores for each of the eleven themes in relation to the given statement:
+11. Defense of Service and Performance: 65.0"," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
 1. Emotional and Psychological Strain: 20.0
 2. Financial Inconsistencies and Challenges: 10.0
@@ -198,7 +198,7 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 8. Denial of Personal Responsibility: 60.0
 9. Departmental Advice and Processes: 40.0
 10. Character Attacks and Political Agendas: 95.0
-11. Defense of Service and Performance: 75.0",Invalid,,
+11. Defense of Service and Performance: 65.0",Invalid,,
 8," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
 1. Emotional and Psychological Strain: 85.0
@@ -251,50 +251,50 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 11. Defense of Service and Performance: 15.0",Invalid,,
 10," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
-1. Emotional and Psychological Strain: 80.0
-2. Financial Inconsistencies and Challenges: 70.0
+1. Emotional and Psychological Strain: 85.0
+2. Financial Inconsistencies and Challenges: 75.0
 3. Mistrust and Skepticism: 60.0
-4. Institutional Practices and Responsiveness: 50.0
-5. Repayment and Financial Rectification: 40.0
-6. Communication and Miscommunication: 30.0
-7. Robodebt Scheme Consequences: 20.0
-8. Denial of Personal Responsibility: 10.0
-9. Departmental Advice and Processes: 10.0
-10. Character Attacks and Political Agendas: 5.0
-11. Defense of Service and Performance: 5.0"," Here are the probability scores for each of the eleven themes in relation to the given statement:
+4. Institutional Practices and Responsiveness: 40.0
+5. Repayment and Financial Rectification: 70.0
+6. Communication and Miscommunication: 80.0
+7. Robodebt Scheme Consequences: 90.0
+8. Denial of Personal Responsibility: 20.0
+9. Departmental Advice and Processes: 30.0
+10. Character Attacks and Political Agendas: 10.0
+11. Defense of Service and Performance: 15.0"," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
-1. Emotional and Psychological Strain: 80.0
-2. Financial Inconsistencies and Challenges: 70.0
+1. Emotional and Psychological Strain: 85.0
+2. Financial Inconsistencies and Challenges: 75.0
 3. Mistrust and Skepticism: 60.0
-4. Institutional Practices and Responsiveness: 50.0
-5. Repayment and Financial Rectification: 40.0
-6. Communication and Miscommunication: 30.0
-7. Robodebt Scheme Consequences: 20.0
-8. Denial of Personal Responsibility: 10.0
-9. Departmental Advice and Processes: 10.0
-10. Character Attacks and Political Agendas: 5.0
-11. Defense of Service and Performance: 5.0",Invalid,,
+4. Institutional Practices and Responsiveness: 40.0
+5. Repayment and Financial Rectification: 70.0
+6. Communication and Miscommunication: 80.0
+7. Robodebt Scheme Consequences: 90.0
+8. Denial of Personal Responsibility: 20.0
+9. Departmental Advice and Processes: 30.0
+10. Character Attacks and Political Agendas: 10.0
+11. Defense of Service and Performance: 15.0",Invalid,,
 11," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
-1. Emotional and Psychological Strain: 60.0
+1. Emotional and Psychological Strain: 20.0
 2. Financial Inconsistencies and Challenges: 10.0
-3. Mistrust and Skepticism: 80.0
+3. Mistrust and Skepticism: 60.0
 4. Institutional Practices and Responsiveness: 5.0
 5. Repayment and Financial Rectification: 5.0
-6. Communication and Miscommunication: 90.0
-7. Robodebt Scheme Consequences: 20.0
+6. Communication and Miscommunication: 70.0
+7. Robodebt Scheme Consequences: 10.0
 8. Denial of Personal Responsibility: 5.0
 9. Departmental Advice and Processes: 5.0
 10. Character Attacks and Political Agendas: 5.0
 11. Defense of Service and Performance: 5.0"," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
-1. Emotional and Psychological Strain: 60.0
+1. Emotional and Psychological Strain: 20.0
 2. Financial Inconsistencies and Challenges: 10.0
-3. Mistrust and Skepticism: 80.0
+3. Mistrust and Skepticism: 60.0
 4. Institutional Practices and Responsiveness: 5.0
 5. Repayment and Financial Rectification: 5.0
-6. Communication and Miscommunication: 90.0
-7. Robodebt Scheme Consequences: 20.0
+6. Communication and Miscommunication: 70.0
+7. Robodebt Scheme Consequences: 10.0
 8. Denial of Personal Responsibility: 5.0
 9. Departmental Advice and Processes: 5.0
 10. Character Attacks and Political Agendas: 5.0
@@ -328,11 +328,11 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 
 1. Emotional and Psychological Strain: 20.0
 2. Financial Inconsistencies and Challenges: 30.0
-3. Mistrust and Skepticism: 50.0
+3. Mistrust and Skepticism: 40.0
 4. Institutional Practices and Responsiveness: 60.0
-5. Repayment and Financial Rectification: 20.0
-6. Communication and Miscommunication: 40.0
-7. Robodebt Scheme Consequences: 30.0
+5. Repayment and Financial Rectification: 10.0
+6. Communication and Miscommunication: 30.0
+7. Robodebt Scheme Consequences: 20.0
 8. Denial of Personal Responsibility: 10.0
 9. Departmental Advice and Processes: 70.0
 10. Character Attacks and Political Agendas: 20.0
@@ -340,11 +340,11 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 
 1. Emotional and Psychological Strain: 20.0
 2. Financial Inconsistencies and Challenges: 30.0
-3. Mistrust and Skepticism: 50.0
+3. Mistrust and Skepticism: 40.0
 4. Institutional Practices and Responsiveness: 60.0
-5. Repayment and Financial Rectification: 20.0
-6. Communication and Miscommunication: 40.0
-7. Robodebt Scheme Consequences: 30.0
+5. Repayment and Financial Rectification: 10.0
+6. Communication and Miscommunication: 30.0
+7. Robodebt Scheme Consequences: 20.0
 8. Denial of Personal Responsibility: 10.0
 9. Departmental Advice and Processes: 70.0
 10. Character Attacks and Political Agendas: 20.0
@@ -352,28 +352,28 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 14," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
 1. Emotional and Psychological Strain: 85.0
-2. Financial Inconsistencies and Challenges: 20.0
+2. Financial Inconsistencies and Challenges: 10.0
 3. Mistrust and Skepticism: 90.0
 4. Institutional Practices and Responsiveness: 70.0
-5. Repayment and Financial Rectification: 10.0
-6. Communication and Miscommunication: 40.0
-7. Robodebt Scheme Consequences: 60.0
-8. Denial of Personal Responsibility: 10.0
-9. Departmental Advice and Processes: 30.0
-10. Character Attacks and Political Agendas: 20.0
-11. Defense of Service and Performance: 15.0"," Here are the probability scores for each of the eleven themes in relation to the given statement:
+5. Repayment and Financial Rectification: 15.0
+6. Communication and Miscommunication: 20.0
+7. Robodebt Scheme Consequences: 80.0
+8. Denial of Personal Responsibility: 5.0
+9. Departmental Advice and Processes: 40.0
+10. Character Attacks and Political Agendas: 10.0
+11. Defense of Service and Performance: 5.0"," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
 1. Emotional and Psychological Strain: 85.0
-2. Financial Inconsistencies and Challenges: 20.0
+2. Financial Inconsistencies and Challenges: 10.0
 3. Mistrust and Skepticism: 90.0
 4. Institutional Practices and Responsiveness: 70.0
-5. Repayment and Financial Rectification: 10.0
-6. Communication and Miscommunication: 40.0
-7. Robodebt Scheme Consequences: 60.0
-8. Denial of Personal Responsibility: 10.0
-9. Departmental Advice and Processes: 30.0
-10. Character Attacks and Political Agendas: 20.0
-11. Defense of Service and Performance: 15.0",Invalid,,
+5. Repayment and Financial Rectification: 15.0
+6. Communication and Miscommunication: 20.0
+7. Robodebt Scheme Consequences: 80.0
+8. Denial of Personal Responsibility: 5.0
+9. Departmental Advice and Processes: 40.0
+10. Character Attacks and Political Agendas: 10.0
+11. Defense of Service and Performance: 5.0",Invalid,,
 15," Here are the probability scores for each of the eleven themes based on the given statement:
 
 1. Emotional and Psychological Strain: 85.0
@@ -398,29 +398,29 @@ Index,Text,Response,Here are the probability scores for each of the eleven theme
 8. Denial of Personal Responsibility: 5.0
 9. Departmental Advice and Processes: 40.0
 10. Character Attacks and Political Agendas: 10.0
-11. Defense of Service and Performance: 5.0",,,Invalid
+11. Defense of Service and Performance: 5.0",,Invalid,
 16," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
-1. Emotional and Psychological Strain: 85.0
-2. Financial Inconsistencies and Challenges: 30.0
-3. Mistrust and Skepticism: 60.0
-4. Institutional Practices and Responsiveness: 40.0
-5. Repayment and Financial Rectification: 20.0
-6. Communication and Miscommunication: 35.0
-7. Robodebt Scheme Consequences: 90.0
-8. Denial of Personal Responsibility: 10.0
-9. Departmental Advice and Processes: 25.0
-10. Character Attacks and Political Agendas: 15.0
-11. Defense of Service and Performance: 5.0"," Here are the probability scores for each of the eleven themes in relation to the given statement:
+1. Emotional and Psychological Strain: 86.7
+2. Financial Inconsistencies and Challenges: 45.3
+3. Mistrust and Skepticism: 90.2
+4. Institutional Practices and Responsiveness: 78.4
+5. Repayment and Financial Rectification: 34.5
+6. Communication and Miscommunication: 67.8
+7. Robodebt Scheme Consequences: 92.7
+8. Denial of Personal Responsibility: 21.4
+9. Departmental Advice and Processes: 48.9
+10. Character Attacks and Political Agendas: 54.2
+11. Defense of Service and Performance: 14.1"," Here are the probability scores for each of the eleven themes in relation to the given statement:
 
-1. Emotional and Psychological Strain: 85.0
-2. Financial Inconsistencies and Challenges: 30.0
-3. Mistrust and Skepticism: 60.0
-4. Institutional Practices and Responsiveness: 40.0
-5. Repayment and Financial Rectification: 20.0
-6. Communication and Miscommunication: 35.0
-7. Robodebt Scheme Consequences: 90.0
-8. Denial of Personal Responsibility: 10.0
-9. Departmental Advice and Processes: 25.0
-10. Character Attacks and Political Agendas: 15.0
-11. Defense of Service and Performance: 5.0",Invalid,,
+1. Emotional and Psychological Strain: 86.7
+2. Financial Inconsistencies and Challenges: 45.3
+3. Mistrust and Skepticism: 90.2
+4. Institutional Practices and Responsiveness: 78.4
+5. Repayment and Financial Rectification: 34.5
+6. Communication and Miscommunication: 67.8
+7. Robodebt Scheme Consequences: 92.7
+8. Denial of Personal Responsibility: 21.4
+9. Departmental Advice and Processes: 48.9
+10. Character Attacks and Political Agendas: 54.2
+11. Defense of Service and Performance: 14.1",Invalid,,
