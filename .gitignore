@@ -159,3 +159,9 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 .idea/
 .DS_Store
+
+data/~*
+readings/
+reviews/
+
+66914032dd77653bd39bc95c526e521dab60e439aa514be633102b891789ac65-2024-01-09-01-26-46.zip

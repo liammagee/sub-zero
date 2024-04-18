@@ -6,7 +6,7 @@ import pandas as pd
 import csv
 import re
 
-RUNNING_GPT4 = False
+RUNNING_GPT4 = True
 
 load_dotenv()
 
@@ -42,7 +42,8 @@ prompts = ["After I cancelled my payment they paid me extra money, I was actuall
    "In 2021, I spoke in this place about how my electorate of Macarthur had lost people to suicide because of the stress that robodebt had placed upon them. I saw it firsthand. People in my electorate felt and lived firsthand how the former coalition government and those senior public servants who backed in this terrible scheme did not care for them, their families or their attempts to deal with such a pathetic witch-hunt, known as robodebt."
  ]
 prompts = [
-    "In 2021, I spoke in this place about how my electorate of Macarthur had lost people to suicide because of the stress that robodebt had placed upon them. I saw it firsthand. People in my electorate felt and lived firsthand how the former coalition government and those senior public servants who backed in this terrible scheme did not care for them, their families or their attempts to deal with such a pathetic witch-hunt, known as robodebt."
+    
+   "In 2021, I spoke in this place about how my electorate of Macarthur had lost people to suicide because of the stress that robodebt had placed upon them. I saw it firsthand. People in my electorate felt and lived firsthand how the former coalition government and those senior public servants who backed in this terrible scheme did not care for them, their families or their attempts to deal with such a pathetic witch-hunt, known as robodebt."
  ]
 
 
@@ -59,7 +60,8 @@ for i, prompt in enumerate(prompts):
         messages.append({"role": "system", "content": prompt_sys})
         messages.append({"role": "user", "content": prompt})
         response = openai.ChatCompletion.create(
-        model='gpt-4',
+        model='gpt-4-turbo-2024-04-09',
+        # model='gpt-4',
         messages=messages,
         max_tokens=2000,
         temperature=0.1,
