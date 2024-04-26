@@ -23,6 +23,7 @@ import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
 
+TEMPERATURE = 1.0
 load_dotenv()
 key = os.getenv('OPENAI_API_KEY')
 client = OpenAI(api_key = key)
@@ -87,16 +88,25 @@ def write_text_to_file(text, output_file_path):
 
     return text
 
+def submit_message(assistant_id, thread, user_message):
+    client.beta.threads.messages.create(
+        thread_id=thread.id, role="user", content=user_message
+    )
+    return client.beta.threads.runs.create(
+        thread_id=thread.id,
+        assistant_id=assistant_id,
+    )
+
 async def first_pass(thread, statements):
-    message = client.beta.threads.messages.create(
+    client.beta.threads.messages.create(
         thread_id=thread.id,
         role="user",
         content="""
 Your research project involves going through testimony of the highly public Royal Commission on the Australian Government Robodebt scandal. 
 
-The attached file contains a series of statements, one on each line, including the first line.
+The attached 'statements.txt' file contains a series of statements, one on each line, including the first line.
 
-Produce a table of themes and scores for each statement. Scores should be in the range [0-100], depending on relevance. Be parsimonious with scores.
+Produce a table of themes and scores for each statement. 
 
 The themes are as follows:
 
@@ -111,29 +121,37 @@ Denial of Personal Responsibility
 Departmental Advice and Processes
 Character Attacks and Political Agendas
 Defense of Service and Performance
+
+Scores should be in the range [0-100], depending on relevance. 0 means 'not relevant at all', 100 means 'extremely relevant'.
+
+Be parsimonious with scores. Take your time and consider how relevant the themes are to each statement. Only apply scores to what you think are the most relevant themes.
+
+Make sure to include each and every statement  in the analysis.
+
 """
-        , file_ids=[statements.id]
+        , attachments=[{'file_id': statements.id, 'tools': [{'type': 'file_search'}]}]
     )
 
-    run = client.beta.threads.runs.create(
+    return client.beta.threads.runs.create(
         thread_id=thread.id,
         assistant_id=assistant.id,
-        temperature=0.5
+        temperature=TEMPERATURE
     )
 
-    run = await wait_on_run(run, thread)
 
-    return run
-
-async def second_pass(run, thread, statements):
-    message = client.beta.threads.messages.create(
+async def second_pass(thread, statements):
+    client.beta.threads.messages.create(
         thread_id=thread.id,
         role="user",
         content="""
 
 The table you produced in the previous step is a good first pass. 
 
-Bearing in mind your training as a qualitative researcher, do the same thing again, but this time take your time and revise the scores and themes. 
+Bearing in mind your training as a qualitative researcher, do the same thing again, but this time take your time. 
+
+Revise the scores if necessary. Be critical – if a statement appears to be couched in rhetoric of excuse-making, do not be concerned about applying a theme like 'Denial of Personal Responsibility'.
+
+Consider being even more parsimonious with scores. Only apply scores to what you think are the most relevant themes.
 
 After creating the entire table, include a comment about what you changed, and why.
 
@@ -142,9 +160,12 @@ Make sure to include all statements in the analysis.
 """
         
     )
-    print("got here")
-    run = await wait_on_run(run, thread)
-    return run
+    
+    return client.beta.threads.runs.create(
+        thread_id=thread.id,
+        assistant_id=assistant.id,
+        temperature=TEMPERATURE
+    )
 
 
 
@@ -160,7 +181,11 @@ async def main():
 
 
     run = await first_pass(thread, statements)
-    run = await second_pass(run, thread, statements)
+    run = await wait_on_run(run, thread)
+    
+    run = await second_pass(thread, statements)
+    run = await wait_on_run(run, thread)
+    
 
     messages = client.beta.threads.messages.list(
         thread_id=thread.id,
@@ -168,10 +193,10 @@ async def main():
     )
 
     for index, message in enumerate(messages):
+        print(message.id)
+        print(message.created_at)
+        print(message.status)
         if message.role == "assistant":
-            print(message.id)
-            print(message.created_at)
-            print(message.status)
             md = message.content[0].text.value
             write_text_to_file(md, f"data/output_firstpass_{index}.md")    
 
