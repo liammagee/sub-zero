@@ -38,7 +38,7 @@ claude3_data = pd.read_excel(file_path, sheet_name='Claude')
 
 # Excluding the 'statement' column before rounding
 gpt4_data_excluding_statement = gpt4_data.drop(['statement', 'author'], axis=1)
-gpt4_4_data_excluding_statement = gpt4_data.drop(['statement', 'author'], axis=1)
+gpt4_4_data_excluding_statement = gpt4_4_data.drop(['statement', 'author'], axis=1)
 llama2_data_excluding_statement = llama2_data.drop(['statement', 'author'], axis=1)
 llama3_data_excluding_statement = llama3_data.drop(['statement', 'author'], axis=1)
 claude3_data_excluding_statement = claude3_data.drop(['statement', 'author'], axis=1)
@@ -169,11 +169,19 @@ print(full_counts.corr())
 # Preparing the data for pairwise correlation analysis
 # Dropping the 'statement' columns as they are not needed for correlation calculation
 humans_data_corr = humans_data_excluding_statement
+gpt4_data_corr = gpt4_data_excluding_statement
+gpt4_4_data_corr = gpt4_4_data_excluding_statement
+llama2_data_corr = llama2_data_excluding_statement
+llama3_data_corr = llama3_data_excluding_statement
+claude3_data_corr = claude3_data_excluding_statement
+
+# humans_data_corr = humans_data_excluding_statement
 gpt4_data_corr = gpt4_data_rounded_1
 gpt4_4_data_corr = gpt4_4_data_rounded_1
 llama2_data_corr = llama2_data_rounded_1
 llama3_data_corr = llama3_data_rounded_1
 claude3_data_corr = claude3_data_rounded_1
+
 
 # Calculating pairwise correlations
 corr_humans_gpt4 = humans_data_corr.corrwith(gpt4_data_corr, axis=0).mean()
