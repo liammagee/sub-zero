@@ -1,0 +1,27 @@
+**Critical Commentary: Why Ethical AI Must Be A Leadership Priority**
+
+In this piece by Jonathan Reichental, there is a call to recognize the necessity of ethical considerations in the design and implementation of artificial intelligence (AI) systems. While the focus on ethics seems noble on the surface, it fundamentally glosses over the larger issues at play: the role of AI in perpetuating the very systems of capitalism that oppress the working class. 
+
+**Note to self**: Remember that ethical frameworks often serve to pacify concerns about technology without addressing underlying power dynamics. 
+
+Reichental rightly points out the transformational potential of AI, yet he presents it as a progressive force that can be molded to serve the public good, all while urging businesses to adopt ethical frameworks. But can we truly trust the very capitalistic structures that birthed this technology to safeguard the interests of ordinary people? With 82% of organizations reportedly either using or considering AI, the question becomes: who really benefits from this so-called revolution? 
+
+**Note to self**: Always question who is driving the narrative around AI. Ethical AI proponents often represent corporate interests under the guise of public benefit.
+
+The commentary fails to address the actual societal implications of widespread AI adoption, particularly for low-income workers who face job displacement, wage suppression, and increased surveillance. The "ethical AI" discussion often fails to consider the grassroots experience—how many workers have a seat at the table when these decisions are made? 
+
+Furthermore, the notion that ethical AI can mitigate risks associated with discrimination and privacy breaches seems naïve when one considers the historical context. How often have technology companies claimed to prioritize fairness, only for data bias and algorithmic discrimination to persist? 
+
+**Note to self**: Historical precedents show that solutions designed by the elite rarely serve those without power. Be vigilant against narratives that trivialize these issues.
+
+The author suggests establishing principles, policies, and governance structures as steps toward ethical AI implementation. Yet, such measures can often act as a smokescreen—providing the illusion of responsibility while maintaining existing hierarchies and profits. The absence of a genuine commitment to dismantling systems of inequity will likely leave these measures superficial.
+
+The mention of compliance with national and international laws raises further questions: whose laws are we talking about? Laws are often crafted by and for those in power, frequently reinforcing existing inequalities rather than challenging them.
+
+**Note to self**: Laws are a tool of the ruling class; true change requires questioning and challenging those structures.
+
+Ultimately, the piece dismisses the more radical implications of AI as a tool of capitalism. Ethical AI is presented as a necessary business strategy, not a challenge to the oppressive systems that it frequently reinforces. If we are to truly focus on the welfare of workers and marginalized communities, we must advocate for a radical shift in how AI is conceived and implemented—not just a fine-tuning of its ethical parameters.
+
+**Note to self**: Radical solutions are necessary when addressing the role of AI in society. Advocate for structural change over mere reform. 
+
+In closing, while the call for ethical AI appears reasonable, it misses the forest for the trees. A revolution in AI must also entail a revolution in our understanding of power, equity, and the rights of workers. Anything less is simply a continuation of the systemic oppression that technology has both reflected and reinforced.

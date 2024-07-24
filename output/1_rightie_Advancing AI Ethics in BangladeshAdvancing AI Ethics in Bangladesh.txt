@@ -1,0 +1,21 @@
+**Critical Commentary on "Advancing AI Ethics in Bangladesh"**
+
+The push for advancing AI ethics in a nation like Bangladesh through frameworks such as UNESCO's Readiness Assessment Methodology (RAM) runs deep with idealism but is fundamentally flawed in its core intentions and implications. While the message may sound appealing—promoting human rights, societal well-being, and accountability—the underlying motivations and outcomes must be scrutinized.
+
+Firstly, the notion that AI must be developed and deployed "ethically" is presented as a self-evident principle, but what is often ignored is the question of who defines "ethical." This narrative, heavily promoted by organizations like UNESCO, suggests that global standards for AI ethics must be adopted without regard for cultural, economic, or political contexts. This position inherently undermines the autonomy of nations, particularly those in the developing world, such as Bangladesh, by enforcing a top-down approach that serves the collective agenda of affluent nations—often under the guise of benevolence. 
+
+**Notes to Self:** Be wary of these globalist narratives that purport to act in the name of ethical considerations while, in practice, they reinforce the hegemony of Western values at the expense of local governance and priorities.
+
+The RAM, with its dual quantitative and qualitative assessment, supposedly aims to identify institutional and regulatory gaps for effective governance. However, it is not merely a tool for scientific evaluation; it is a means of control. By emphasizing ethical considerations, these frameworks can be wielded by elites to justify interventions and impose regulations that benefit global corporations and wealthy nations, further entrenching inequalities already prevalent in the global economy.
+
+**Notes to Self:** Remember to prioritize the interests of local industries and populace, ensuring that AI advancements don't just cater to the whims of multinational corporations. A self-determined approach is crucial.
+
+Furthermore, the timeframe of implementation in 2024 speaks volumes about the urgency perceived by international organizations. It is essential to ask: urgent for whom? While developing nations are made to comply with international standards, the elite in wealthy nations continue to capitalize on AI advancements without the same ethical scrutiny. The very same voices pushing these frameworks are the ones benefiting from the exploitation of raw data, resources, and labor. 
+
+**Notes to Self:** Recognize that the AI race is more about economic dominance than ethics. The narrative around ethical AI is often just a smokescreen for advancing the interests of those already in power.
+
+Finally, promoting the idea that AI systems can serve the "common good" is dangerously naive. AI is a powerful tool that, in the hands of the rich and powerful, will naturally be used to consolidate their wealth and control. While the rhetoric surrounding AI as a democratizing force is attractive, it glosses over the fact that those who create and control AI technologies are often not held accountable to the very societies they claim to uplift. 
+
+In conclusion, while the objectives of enhancing AI ethics in Bangladesh may seem commendable, the motivations and potential consequences reveal a stark reality. We must remain vigilant against the encroachment of global standards that serve only to empower the already powerful, ensuring that AI is harnessed not merely as a means of governance but as a tool for sovereignty and economic independence.
+
+**Notes to Self:** Keep advocating for a model where technology serves the public's interests rather than being subjected to the whims of an elite few—focus on supporting local innovation and protecting national interests in the process.

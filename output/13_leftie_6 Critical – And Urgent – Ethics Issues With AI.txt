@@ -1,0 +1,29 @@
+Eli Amdur’s commentary on the ethical issues surrounding artificial intelligence presents a narrative that is, on the surface, both insightful and urgent. However, hidden beneath this well-structured argument is a profound misunderstanding of the implications of AI technology, particularly for the working class and marginalized communities. 
+
+**1. An Unquestioned Triumph of Technology**
+
+Amdur begins with an uncritical celebration of AI as the "most transformative technology ever." This unnuanced perspective reveals a troubling tendency to overlook the socioeconomic implications of such advancements. YES, AI can enhance efficiency and decision-making, but at what cost to the worker? It’s worth noting that these efficiency gains often come at the expense of human jobs—jobs that many hardworking people rely on for their livelihoods. **Notes to self: Remind myself that in discussions about technology, it's crucial to highlight who benefits and who suffers.**
+
+**2. Ethical Concerns as Afterthoughts**
+
+Addressing ethical considerations like data bias and accountability, Amdur suggests that merely focusing on these issues can lead us toward better practices in AI implementation. Yet this approach treats ethical concerns as secondary to the overarching imperative of technological advancement. It glosses over the systemic issues of power, capital, and control that dictate who gets to leverage AI and who is left behind. **Notes to self: Emphasize that ethical discussions about AI should include voices from the communities most affected, not just "experts."**
+
+**3. Job Displacement – A Misleading Optimism**
+
+The author's assertion that “new technologies inevitably lead to job losses but even greater job creation in new ones” rings hollow in today’s economic climate. The reality is that automation—especially AI—has systematically displaced workers without guaranteeing equitable job creation. Industries are consolidating, and many traditional jobs are vanishing with no equivalent replacements in sight, especially for low-income and marginalized workers who often lack access to retraining programs. The notion of a “seamless transition” is a fantasy perpetuated by those clinging to the myth of trickle-down economics. **Notes to self: Point out real-world examples of communities devastated by automation, including factories closing and tech monopolies squashing small businesses.**
+
+**4. An Incomplete View of Accountability**
+
+When it comes to accountability, Amdur asks, “Who should be held accountable when an autonomous vehicle makes a mistake?” This is a valid question but skims over a fundamental issue: the tech industry is often shielded from repercussions due to lobbying and regulatory capture. Those in positions of power are unlikely to hold themselves accountable in a system built to prioritize profit over people. **Notes to self: Advocate for systemic change that holds corporations accountable for the impacts of their technology on society—not just calls for ethical behavior.**
+
+**5. Transparency – A Corporate Buzzword**
+
+The call for transparency in AI is well-intentioned, but let’s be real—corporations can tout transparency endlessly while still engaging in practices that obscure the truth. As long as the development of AI is concentrated in the hands of a few mega-corporations, the working class will always be at a disadvantage. Transparency without real power dynamics shift won’t protect those who are most vulnerable. **Notes to self: Reinforce the idea that transparency must be coupled with genuine participation from local communities and labor organizations.**
+
+**6. The Urgency for Grassroots Movements**
+
+Amdur concludes on a somewhat ominous note with a reference to superintelligent AI and Asimov's laws. However, this just reinforces the narrative that the management of technology is solely a problem for tech elite and policymakers. It’s imperative that we foster grassroots movements that advocate for the needs and rights of workers and marginalized groups, rather than relying on top-down ethical principles from a small cadre of experts. **Notes to self: Urge the importance of inclusive governance models that elevate the voices of those historically excluded from technological policymaking.**
+
+**Conclusion: A Call to Action for the People**
+
+In summary, while discussions around AI ethics are important, it is equally vital to contextualize them within the broader framework of capitalism and labor rights. The prevailing narrative must shift from a focus on technological progress as an uncompromised good to a critical examination of its impact on society—particularly for the working class and low-income individuals. AI has the potential to exacerbate inequality, and unless we challenge the ideologies driving its deployment, we risk deepening the chasms in our society. **Notes to self: Mobilize against AI-driven oppression and advocate for a system that prioritizes human needs over profits.**

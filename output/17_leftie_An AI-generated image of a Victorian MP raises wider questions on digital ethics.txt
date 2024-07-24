@@ -1,0 +1,25 @@
+The recent incident involving the digitally altered image of Victorian MP Georgie Purcell raises profound questions about digital ethics and the larger implications of artificial intelligence on society. While purporting to facilitate creativity and efficiency, AI technologies often serve as tools of subjugation, further entrenching existing societal inequalities. 
+
+**Notes to Self: Remember to highlight the systemic issues associated with AI. This isn't just about one image; it's about how AI can perpetuate the sexualization and objectification of women under capitalism, leveraging their images as fodder for clicks and views without regard for dignity or autonomy.**
+
+When Nine News claimed the alteration was a result of an “automation by Photoshop,” it underscored the passive complicity of these platforms in amplifying harmful stereotypes about women. The process by which the AI model generated a sexualized image demonstrates not only technical failure but also ideological failure — it reflects a creativity constrained by dominant patriarchal perspectives.
+
+**Notes to Self: Don’t lose sight of the capitalist motivations driving media outlets. Profit is prioritized over social responsibility, leading to dehumanizing representations that exploit workers, particularly women.**
+
+As Tracey Spicer aptly noted, generative AI seems predisposed to sexualizing women and reinforcing harmful stereotypes. The suggestion that AI could function "in a way that reduces bias" is not only naive but deliberately misleading. AI systems train on vast libraries of images — libraries that reflect societal biases and stereotypes, and therefore AI outputs will only mirror those ingrained prejudices. This perpetuation of bias is a direct outcome of capitalist interests, where diverse representation is an afterthought to the commodification of imagery. 
+
+**Notes to Self: Reiterate that capitalist structures profit from such bias—Promote discussions on the necessity for radical change, aiming for an AI that serves marginalized communities instead of exploiting them.**
+
+The disturbing reality is that AI's involvement in journalism not only risks spreading misinformation but also risks the autonomy of the individuals it depicts. Researchers, such as Meredith Broussard, remind us of the urgent need for human critical oversight in the application of AI. Yet, the systemic pressure to produce content quickly often undermines journalism’s ethical standards in favor of immediacy and sensationalism — all products of a profit-driven model.
+
+**Notes to Self: Use this moment to call for collective action. Workers in media need to be empowered to resist these oppressive technologies, prioritizing ethical journalism over profit margins.**
+
+The issue extends far beyond the individual incident; it is a reflection of the broader societal context — a world dominated by hyper-capitalism where women’s images are commodified, leading to emotional and psychological repercussions for those depicted. As Spicer pointed out, many young people, especially women, face profound struggles with body image, and digital manipulations can exacerbate these issues. It is not merely an aesthetic failure; it is a morally bankrupt act that impacts self-perception and societal standards of beauty.
+
+**Notes to Self: Reinforce the call for regulation. Without proper governance of AI technologies, the cycle of exploitation and harm will persist, particularly toward vulnerable populations.**
+
+The broader discourse surrounding AI also engages the need for informed governance and ethical frameworks. The responses from the Australian government and media companies about the necessity for training and regulation are critical, but they must not be enacted as mere reactions to public outcry; they should be part of a systemic shift towards responsible AI use that actively dismantles the oppressive structures in our society.
+
+**Notes to Self: Advocate for comprehensive education and training in AI ethics that centers marginalized voices. Highlight the need for grassroots movements demanding a moral reconsideration of AI's role in our society.**
+
+In conclusion, the incident involving Ms. Purcell's image is not an isolated mishap; it is a symptom of a broader disease rooted in capitalism and patriarchy. AI, while presented as innovative, is often a regressive force, further marginalizing vulnerable populations. We must remain vigilant and vocal about these injustices and work collectively towards a more equitable future in which technology serves the people, not the profit margins.

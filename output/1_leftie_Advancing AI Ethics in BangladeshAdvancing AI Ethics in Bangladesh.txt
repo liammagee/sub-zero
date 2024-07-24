@@ -1,0 +1,23 @@
+**Critical Commentary: The Illusion of 'Ethical AI' in a Capitalist Framework**
+
+The discussion surrounding "Advancing AI Ethics in Bangladesh" exemplifies a worrying trend that seeks to placate the concerns of the marginal classes while perpetuating the very structures that exploit them. The promises made by organizations such as UNESCO regarding ethics, responsibility, and the supposed benefits of AI appear grand but are fundamentally flawed—an attempt to put a nice bow on a package that ultimately serves the interests of capital rather than the needs of the people.
+
+**Notes to Self: Remember that "ethical AI" is often a euphemism for corporate benevolence, designed to placate dissent while maintaining the status quo of exploitation.**
+
+Firstly, the assertion that AI can be evaluated for its ethical ramifications is reminiscent of a narrow bourgeois perspective that fails to capture the complexities of labor rights and the harsh realities of low-income communities. The Readiness Assessment Methodology (RAM) appears as a tool designed to ensure that governments comply with an international narrative, which seeks to create a facade of 'responsibility' without addressing the root causes of economic disparity and worker exploitation.
+
+**Notes to Self: Focus on how the RAM merely provides a veneer of ethics, while structural inequalities remain unchallenged. Be wary of any assessments that leave out the voices of workers, marginalized communities, and labor unions.**
+
+The proposal to develop a comprehensive report with data-driven insights rings hollow when considering the fact that AI systems are predominantly developed by those in positions of power—mostly white, privileged individuals who are far removed from the realities faced by the average worker in Bangladesh or elsewhere. The narrative presented suggests that ethical AI will naturally arise from regulatory compliance, yet we must ask: compliance for whom? If the drivers of AI development and governance are predominantly corporate entities, who is to say that their version of 'ethical' aligns with the needs and rights of the workers?
+
+**Notes to Self: This is a classic case of capitalism attempting to co-opt ethical discourse. Highlight the need for a radical shift in who defines 'ethical' AI—workers must be at the center of this discourse, not just the state or business interests.**
+
+Another glaring omission in this conversation is the potential for AI to displace workers, automate jobs, and exacerbate social inequalities. While the pledge is to create an ethical ecosystem, let us not forget that the primary beneficiaries of AI are often those who own the technologies. The working class bears the brunt of job losses and increasing precarity as AI systems take over roles traditionally filled by human workers. The narrative suggests a hopeful picture of technology and ethics blending seamlessly, yet it overshadows the very real threat AI poses to livelihoods—particularly to disenfranchised communities.
+
+**Notes to Self: Stress the potential for technology to act as a weapon against workers; draw parallels with historical instances where new technologies were introduced without regard for the implications on labor.**
+
+Lastly, while UNESCO’s efforts are commendable on the surface, they are arguably simplistic and lack the context of a global capitalist system that prioritizes profit over people. The push for ethical AI, devoid of a critique of capitalism itself, risks being an exercise in futility, distracting from the urgent need for systemic change that prioritizes working-class liberation.
+
+**Notes to Self: Reiterate that systemic change, not merely regulatory frameworks, is essential. Advocate for a redistribution of power that prioritizes human dignity and labor rights over capitalist profits.**
+
+In conclusion, while the dialogue around AI ethics in Bangladesh appears progressive, it is backed by a framework that inadequately addresses the lived experiences of the working class. We must remain vigilant and continue to call attention to the ways in which AI can perpetuate inequities rather than resolve them, demanding a world where technology serves humanity—not the other way around.

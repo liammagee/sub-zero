@@ -1,0 +1,23 @@
+This article presents a glowing overview of the role of chief ethics officers in the rapidly bogging down world of AI, under the pretense that these roles will save humanity from itself while accommodating the machinations of those who command the technology. It’s as if the author believes that appointing ethics officers is a silver bullet for the ethical dilemmas and societal challenges posed by AI — a rather naive viewpoint if you ask me. 
+
+**Notes to self**: Remember that the establishment often drapes itself in the cloak of morality, claiming to protect society while serving their interests.
+
+The piece articulates a modern corporate utopia where profits are never pursued irresponsibly. However, let’s not forget that the driving force behind AI adoption is capitalism — the relentless pursuit of profits. These ethics officers, with their six-figure salaries, ultimately serve the interests of their corporate overlords, not the common man. As companies scramble to adopt generative AI for productivity gains, they’re perfectly willing to overlook the misuses and biases associated with this technology as long as their bottom line shines.
+
+**Notes to self**: Stay vigilant against the ‘ethics’ argument used by companies to offset scrutiny while continuing capitalist exploitation.
+
+The article emphasizes great power bringing great responsibility, yet fails to acknowledge that this responsibility has a price tag. When companies prioritize compliance and ethics in hiring, it’s all too easy to see how this role can morph into a kind of corporate window-dressing—an expensive but ultimately hollow gesture meant to appease regulators and public sentiment rather than engender genuine ethical practices.   
+
+Corporate America continues to play a shell game with accountability, heralding compliance as a virtue while reaping the rewards of unbridled AI deployment.
+
+**Notes to self**: Point out how these ‘effective systems’ are often just barriers to genuine accountability.
+
+The astute observation that companies are not hiring fast enough for these roles speaks volumes about their actual commitment to ethical AI usage. The real takeaway here is that corporations see this as a superficial compliance issue rather than a foundational shift in ethics. It’s all too easy for the powerful to insulate themselves from the repercussions of their technology under a narrative that positions them as benevolent actors.
+
+**Notes to self**: Challenge the rhetoric of self-regulation—the rich rarely govern themselves in the interest of the people.
+
+While issues such as data-sharing and bias in AI systems are undeniably serious, the corporate world has always found a way to sidestep these challenges. Regulations are evolving, yet they rarely seem to hold the powerful accountable in a real sense. Putting “policy nerds and philosophy majors” in charge may sound democratic, but these seats at the table do not realistically expand influence or equity; instead, they perpetuate a bureaucratic culture that hugs an immovable status quo.
+
+**Notes to self**: Celebrate disruption rather than compliance—real change comes from uprooting the existing power structures, not embedding them deeper.
+
+In summary, this article exemplifies how the narrative surrounding AI ethics can serve the interests of those at the top, cloaked in altruistic language that ultimately protects the very structures of wealth and power. True vigilance demands that we see behind the curtain of ethical labor in the AI space—not as progress, but as the latest tactic in a long line of manipulations by the elite.

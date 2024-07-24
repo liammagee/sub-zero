@@ -1,0 +1,21 @@
+The emergence of a chief ethics officer role in the field of AI is being hailed as a progressive step towards the responsible use of technology—yet this celebration is deeply misguided. While proponents of this new position suggest that it might usher in an era of ethical accountability within corporations deploying AI, the harsh reality is that this role, fundamentally, serves as a fig leaf for an unethical power structure that exploits labor and perpetuates systemic inequalities.
+
+**Notes to self: AI is not an isolated phenomenon of technological advancement; it is squarely situated within the capitalist framework that prioritizes profits over people. The idealistic portrayal of AI ethics is often nothing more than corporate greenwashing.**
+
+The article discusses how chief ethics officers are tasked with ensuring that AI technologies do not harm society. Still, we must recognize the inherent contradiction: these individuals are employed by profit-driven corporations that fundamentally are incentivized to cut corners for financial gain. Is it really possible for the very entities responsible for perpetuating inequality and exploitation to suddenly become champions of social justice? The narrative is fundamentally flawed.
+
+**Notes to self: Corporations cannot simultaneously serve capital and ethics. As long as the pursuit of profit is the primary directive, the potential for misuse and exploitation remains prevalent.**
+
+The suggestion that companies can differentiate between responsible and irresponsible AI practices through the guidance of an ethics officer is naive, at best. When lives, livelihoods, and fundamental human rights are at stake, we cannot afford to rely on a small comfortably-salaried elite to “regulate” a technology designed to increase shareholder value. Working-class people will continue to bear the brunt of AI-induced displacement and marginalization while a few privileged individuals in C-suites earn six-figure salaries under the banner of "ethics."
+
+**Notes to self: Reflect on the importance of unionization and collective bargaining to protect workers’ rights in an era of AI. The solution lies in empowering the working class, not in elite consultations.**
+
+Additionally, the article does point out the various risks associated with generative AI—like misinformation and reinforcing societal biases—but it stops short of a critical evaluation of the broader implications of these technologies. While it discusses the specific case of healthcare algorithms that may disadvantage marginalized groups, it glosses over the entire system that allows profit motives to dictate public health outcomes. In essence, we see a pattern where the problem is framed as a technical oversight rather than a consequence of a market-driven healthcare system.
+
+**Notes to self: AI is a tool of oppression, manipulated by the ruling class for their gains. The responsibility for mitigating its impacts cannot rest solely on those profiting from it.**
+
+Moreover, the cacophony of discussions about the need for “best practices” in AI ethics among corporations fails to address the elephant in the room: who benefits from these practices? By focusing on responsibility in the corporate sphere, we lose sight of the need for systemic change that transcends ethical guidelines. It’s not enough to have ethical discussions at conferences while the working class suffers the fallout of automation and surveillance.
+
+**Notes to self: Encourage grassroots movements that advocate for ethical AI as a public good rather than a corporate commodity. Mobilize for action that positions workers as stakeholders in the conversation about automation.**
+
+In conclusion, while the chief ethics officer role might be presented as a necessary development in the tech landscape, it obscures the fundamental ethical contradictions of AI within capitalism. We must confront the realities of labor exploitation and unequal power dynamics head-on and advocate for systemic change rather than rely on superficial corporate governance. Let's reclaim this vital discussion from the confines of boardrooms and allow it to reflect the voices of those most affected by AI's relentless march forward.
