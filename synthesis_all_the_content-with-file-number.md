@@ -1,4 +1,4 @@
-# Article title: How businesses can responsibly use AI and address ethical and security challenges
+Article 0:# Article title: How businesses can responsibly use AI and address ethical and security challenges
 
 
 ### Notes 1:
@@ -140,7 +140,7 @@ Finally, while the article mentions the U.S. Executive Order on AI and the impor
 In summary, while the article does highlight critical themes around the responsible use of AI, a more nuanced approach sensitive to the implications for the Global South is required. The commitment to ethical AI should not only stem from a desire for accountability and transparency but must actively work towards dismantling the structural inequalities that predate the digital age.
 
 
-# Article title: 6 Critical – And Urgent – Ethics Issues With AI
+Article 1:# Article title: 6 Critical – And Urgent – Ethics Issues With AI
 
 
 ### Notes 1:
@@ -274,7 +274,7 @@ The urgency Amdur conveys around these issues is undoubtedly valid. Yet, what I 
 In conclusion, while Amdur's article addresses vital ethical aspects of AI, it lacks a Global South perspective that prioritizes inclusivity and contextuality. My own biases as a researcher compel me to recognize the limitations of dominant paradigms in ethical discussions and strive to incorporate diverse views that enrich our understanding of the complex interplay between technology, society, and ethics. As I continue my work, I will remain mindful of these gaps while seeking transformative and equitable solutions.
 
 
-# Article title: An AI-generated image of a Victorian MP raises wider questions on digital ethics
+Article 2:# Article title: An AI-generated image of a Victorian MP raises wider questions on digital ethics
 
 
 ### Notes 1:
@@ -398,7 +398,7 @@ The case of the altered image of Victorian MP Georgie Purcell raises profound qu
 In conclusion, the AI-generated image of Georgie Purcell serves as a critical case study at the intersection of digital ethics, gender representation, and media responsibility. As researchers and practitioners, the challenge lies in collectively addressing the cultural biases embedded within technological systems and ensuring that the rise of AI does not replicate or amplify existing inequalities. Therefore, an ongoing commitment to diverse perspectives and critical inquiry is essential as we shape the future of digital media and technology.
 
 
-# Article title: Why Ethical AI Must Be A Leadership Priority
+Article 3:# Article title: Why Ethical AI Must Be A Leadership Priority
 
 
 ### Notes 1:
@@ -556,7 +556,7 @@ In conclusion, while Reichental’s article emphasizes the urgency of ethical AI a
 **Note to Self:** Aim to center marginalized voices in discussions of emerging technologies. Engage with literature that critiques dominant narratives and includes alternative perspectives on ethics and governance.
 
 
-# Article title: The Ethical Dilemma Of AI In Marketing: A Slippery Slope
+Article 4:# Article title: The Ethical Dilemma Of AI In Marketing: A Slippery Slope
 
 
 ### Notes 1:
@@ -696,7 +696,7 @@ Ultimately, while AI has the potential to yield significant advancements in mark
 - Keep iterating on the necessity for inclusive dialogues in tech governance that meaningfully engage communities impacted by its use, highlighting the importance of diverse perspectives in shaping equitable futures for AI.
 
 
-# Article title: This might be the most important job in AI
+Article 5:# Article title: This might be the most important job in AI
 
 
 ### Notes 1:
@@ -826,7 +826,7 @@ While the establishment of Chief Ethics Officers is a step towards addressing et
 **Final Note to Self:** Remain committed to a generalized critique of corporate structures that often propagate inequalities while advocating for systemic change that offers avenues for local empowerment and accountability in AI governance. Empowerment is a collective responsibility across nations, and technology should serve to uplift diverse communities, not reinforce existing inequities.
 
 
-# Article title: Are tomorrow’s engineers ready to face AI’s ethical challenges?
+Article 6:# Article title: Are tomorrow’s engineers ready to face AI’s ethical challenges?
 
 
 ### Notes 1:
@@ -930,7 +930,7 @@ While the article rightly emphasizes the role of educational institutions in fos
 The synthesis of education and ethical responsibility is not merely about compliance; it is a means to cultivate a generation of engineers who will take ownership of their role in society. Preparing future engineers requires a cultural shift in academia and a commitment to engendering critical, ethical reflections in technical environments. It is imperative for educational institutions to recognize the importance of integrating local and global ethical perspectives if we aim to create responsible engineers who are equipped to address the complex socio-technical landscapes of our future. **In doing so, we honor the imperative: ethics knowledge should be as integral to engineering as technical prowess—both essential for navigating the uncertainties introduced by AI in our rapidly evolving world.**
 
 
-# Article title: Why Pope Francis thinks the Church should play a part in world leaders’ debate on AI
+Article 7:# Article title: Why Pope Francis thinks the Church should play a part in world leaders’ debate on AI
 
 
 ### Notes 1:
@@ -1084,7 +1084,7 @@ In conclusion, while Pope Francis’s engagement with AI at the G7 summit presents
 **Notes to self: Maintain a reflexive lens—how does my position influence my understanding? Strive for inclusivity and authenticity in conversations about technology, acknowledging the complexities at play.**
 
 
-# Article title: Pope Francis to weigh in on 'ethical' AI at G7 summit
+Article 8:# Article title: Pope Francis to weigh in on 'ethical' AI at G7 summit
 
 
 ### Notes 1:
@@ -1210,7 +1210,7 @@ In conclusion, Pope Francis’s foray into the discourse on artificial intelligenc
 Reflective engagement with these themes allows for the acknowledgment of my own biases as a researcher, underscoring the importance of utilizing multiple lenses to approach such discussions in hopes of a more equitable global technological future.
 
 
-# Article title: AI ethical review should empower innovation—not prevent it
+Article 9:# Article title: AI ethical review should empower innovation—not prevent it
 
 
 ### Notes 1:
@@ -1349,7 +1349,7 @@ The claims regarding a "risk-based approach" seem to echo a common refrain withi
 In summary, while the article espouses a vision of ethical AI innovation that aligns with the imperatives of the corporate environment, it must also be scrutinized for its potential blind spots, particularly in regard to local contexts, power dynamics, and inclusive frameworks of accountability. The rhetoric of empowerment must not overshadow the critical need for genuine ethical practice, particularly in the Global South, where the threefold impact of AI on society, economy, and ecology warrants thorough examination.
 
 
-# Article title: Dell teams up with governments worldwide to tackle issues of AI ethics
+Article 10:# Article title: Dell teams up with governments worldwide to tackle issues of AI ethics
 
 
 ### Notes 1:
@@ -1481,7 +1481,7 @@ In conclusion, while Dell’s initiatives to address AI ethics through government 
 
 
 
-# Article title: The Ethics Of AI: Balancing Innovation With Responsibility
+Article 11:# Article title: The Ethics Of AI: Balancing Innovation With Responsibility
 
 
 ### Notes 1:
@@ -1616,7 +1616,7 @@ In conclusion, discussions about AI ethics must confront the complexities of glo
 7. **Global Contextualization:** Stay committed to situating discussions within a global context to inform a more nuanced understanding of technology's ethical implications.
 
 
-# Article title: In the rush to adopt AI, ethics and responsibility are taking a backseat at many companies
+Article 12:# Article title: In the rush to adopt AI, ethics and responsibility are taking a backseat at many companies
 
 
 ### Notes 1:
@@ -1712,7 +1712,7 @@ The article also points to legislative initiatives like the EU's Artificial Inte
 In summary, while the enthusiasm to leverage AI for enhanced productivity is understandable, the risks accompanying this haste cannot be dismissed. As we navigate these waters, it's imperative to maintain a critical lens on how we define success in the tech industry—where ethical considerations should resolve into the very fabric of technological advancement, particularly in regions striving for equitable growth. The call for balanced investment in ethical frameworks alongside innovation is not merely a corporate necessity; it is a moral imperative that shapes the future trajectory of societies, forging paths that are both informed and responsible.
 
 
-# Article title: AI Generates Debate Over Newsroom Ethics
+Article 13:# Article title: AI Generates Debate Over Newsroom Ethics
 
 
 ### Notes 1:
@@ -1831,7 +1831,7 @@ In summary, while the promise of AI offers intriguing possibilities for journali
 **Final Note to Self:** Always critique my assumptions and remain open to diverse perspectives, especially from marginalized voices, in understanding how technology shapes narratives differently across the globe.
 
 
-# Article title: Davos 2024: Can – and should – leaders aim to regulate AI directly?
+Article 14:# Article title: Davos 2024: Can – and should – leaders aim to regulate AI directly?
 
 
 ### Notes 1:
@@ -1960,7 +1960,7 @@ Ultimately, the overarching objective must be to ensure that AI serves humanity 
 - Advocate for an ethical framework that emphasizes fairness, equity, and justice. Engage with stakeholders across sectors to learn about on-the-ground implications of policy decisions and the roles they play in shaping societies both in the Global North and Global South.
 
 
-# Article title: AI Ethics: 7 Crucial Qualities Of Ethical Leadership
+Article 15:# Article title: AI Ethics: 7 Crucial Qualities Of Ethical Leadership
 
 
 ### Notes 1:
@@ -2111,7 +2111,7 @@ The article by Bruce Weinstein offers a conventional viewpoint on ethical leader
 In summary, while Weinstein's list serves as a starting point for discussing ethical AI leadership, it is imperative that future analyses delve deeper into historical contexts, systemic oppression, and intersectionality, especially from perspectives rooted in the Global South. The path to ethical leadership in AI should be forged collaboratively, embracing actors and voices from diverse global contexts rather than merely aligning with existing paradigms.
 
 
-# Article title: AI could transform ethics committees
+Article 16:# Article title: AI could transform ethics committees
 
 
 ### Notes 1:
@@ -2230,7 +2230,7 @@ The discussion around AI's potential role in making ethical decisions raises ala
 While the transformative potential of AI in ethics committees is an intriguing proposition, it is imperative that we approach this development with caution and critical reflection. The integration of AI into decision-making must not come at the cost of ethical depth or the diversity of perspectives that frame moral inquiry. As a researcher from the Global South, I feel a profound responsibility to advocate for inclusive ethics that recognize and honor these diverse viewpoints. **In essence, using AI as a tool to strengthen ethical decision-making should be pursued cautiously, ensuring that the humanity of ethical deliberations is preserved.**
 
 
-# Article title: How Ethics, Regulations And Guidelines Can Shape Responsible AI
+Article 17:# Article title: How Ethics, Regulations And Guidelines Can Shape Responsible AI
 
 
 ### Notes 1:
@@ -2368,7 +2368,7 @@ The article “How Ethics, Regulations And Guidelines Can Shape Responsible AI” of
 In examining the article, it becomes clear that the conversation surrounding AI ethics is pivotal. However, to achieve responsible AI, we must actively dismantle the dominant narratives that shape the discourse and involve diverse perspectives, particularly those that arise from the Global South. This diversification is not merely supplementary; it is fundamental. **Final note to self: commit to centering Global South perspectives in discussions of technology and ethics, recognizing the importance of local contexts and experiences.**
 
 
-# Article title: AI will be everywhere. How should we prepare for the ethics around this?
+Article 18:# Article title: AI will be everywhere. How should we prepare for the ethics around this?
 
 
 ### Notes 1:
@@ -2516,7 +2516,7 @@ The article discusses the inevitable integration of AI into our daily lives and 
 The burgeoning presence of AI in everyday life poses significant ethical questions, and we must engage in dialogues that transcend the dominant narratives originating from the West. We should prioritize inclusive discussions that reflect a multitude of cultural voices, particularly from the Global South, and address the underlying power dynamics shaping our ethical frameworks. Only then can we approach the moral complexities of AI with the depth and awareness it truly demands.
 
 
-# Article title: Address ethical concerns to optimise AI use
+Article 19:# Article title: Address ethical concerns to optimise AI use
 
 
 ### Notes 1:
@@ -2648,7 +2648,7 @@ Lastly, the notion of public trust in AI, as suggested in the article, requires 
 5. **Human-Centric AI:** Emphasize an integrative approach that values human rights, equity, and social justice in all discussions around AI and its deployment.
 
 
-# Article title: Meta, Apple, Microsoft Expand AI Risk Transparency Amid Pressure
+Article 20:# Article title: Meta, Apple, Microsoft Expand AI Risk Transparency Amid Pressure
 
 
 ### Notes 1:
@@ -2780,7 +2780,7 @@ While companies concoct procedures for gathering feedback on AI practices, the m
 The move towards increased transparency in AI practices among major tech companies should not merely be welcomed as an advance; it also needs critical scrutiny and advocacy for a more inclusive, equitable future. While shareholders may push for accountability, we must ensure that wider societal impacts and ethical considerations remain at the forefront of AI discussions. The challenge lies in fostering an environment where transparency leads to genuine social responsibility, prioritizing diverse perspectives and voices that may otherwise remain marginal in discourses shaped predominantly by corporate agendas.
 
 
-# Article title: Original sins and dirty secrets: GenAI has an ethics problem. These are the three things it most urgently needs to fix
+Article 21:# Article title: Original sins and dirty secrets: GenAI has an ethics problem. These are the three things it most urgently needs to fix
 
 
 ### Notes 1:
@@ -2920,7 +2920,7 @@ This exclusion reinforces power disparities, where those crafting the narratives
 The ethical landscape surrounding generative AI is fraught with dilemmas that demand rigorous scrutiny. A nuanced understanding of these issues must embrace a Global South perspective, one that pushes against the tide of exploitation and advocates for inclusive, equitable practices. The path forward should not only consider technological growth but the social implications accompanying it, ensuring that we do not repeat the historical patterns of systemic inequity. As I continue this research, it is imperative to center the voices and experiences of those marginalized within this narrative, fostering a future where technology truly serves the collective good.
 
 
-# Article title: Friar Tech: The Vatican's top AI ethics expert who advises Pope Francis, the UN and Silicon Valley
+Article 22:# Article title: Friar Tech: The Vatican's top AI ethics expert who advises Pope Francis, the UN and Silicon Valley
 
 
 ### Notes 1:
